@@ -1,0 +1,182 @@
+.menu{
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    z-index: 10;
+    cursor: pointer;
+    background-color:#F7B1AB;
+    width: 100%;
+    height: 50px;
+}
+
+.links{
+    display:inline;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    color: #370617;
+    font-size: 27px;
+    font-family: 'Oswald', sans-serif;
+}
+
+
+body{
+    margin:0;
+    padding-top: 800px;
+}
+
+#welcome{
+    width:100%;
+    height: 100%;
+    position: absolute;
+    height: 800px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: table;
+    overflow: hidden;
+    background: #FEFDDF;
+    z-index: 9;
+}
+
+.parallax-inner{
+    display: table-cell;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+}
+
+#pic{
+   width: 600px;
+    height: 450px;
+}
+
+h1{
+    color: #4D194D;
+    font-size: 40px;
+      font-family: 'Cormorant Garamond', serif;
+}
+
+
+
+#intro{
+    color: #370617;
+}
+
+#about{
+    text-align: center;
+    background-color: beige;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+p{
+    font-size: 20px;
+    color: #370617;
+    font-family: 'Lobster Two', cursive;
+    word-spacing: 8px;
+    
+}
+
+#about1{
+
+    color: #4D194D;
+    font-size: 40px;
+      font-family: 'Cormorant Garamond', serif;
+
+}
+
+
+#name{
+     color: #4D194D;
+    font-size: 50px;
+      font-family: 'Cormorant Garamond', serif;
+    
+}
+
+h4,h5{
+    font-size: 25px;
+    color: #370617;
+    word-spacing: 8px;   
+}
+
+
+
+
+.links{
+    text-decoration: none;
+    color: #370617;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.links:hover{
+    font-size: 30px;
+    color: crimson;
+}
+
+h3{
+    color: #4D194D;
+    font-size: 26px;
+}
+
+#products{
+    text-align: center;
+    background-color: beige;
+    margin-bottom: 100px;
+    
+
+}
+
+.line{
+    width: 70px;
+    background-color: black;
+    height: 7px;
+    margin: 8px auto;
+}
+
+#contact{
+    text-align: center;
+    background-color: beige;
+    margin-bottom: 100px;
+    
+}
+
+.contact_1 h3{
+   display: inline;
+}
+
+.contact_1 a{
+    text-decoration: none;
+}
+
+.img1 {
+    width: 350px;
+    height: 350px;
+  }
+
+  .img2 {
+    width: 420px;
+    height: 320px;
+  } 
+  
+  .img3 {
+    width: 420px;
+    height: 320px;
+  }
+
+  .img4{
+      width: 420px;
+      height: 320px;
+  }
+
+  .img5 {
+    width: 350px;
+    height: 350px;
+  }
